@@ -1,3 +1,5 @@
+<h1 align="center"><img src="./dashboard/images/logo-non-bg.png" width="22px"> Goat Bot - Bot Chat Messenger</h1>
+
 #Goatbot Updated By Local Aljur Pogoy 👑
 
 
