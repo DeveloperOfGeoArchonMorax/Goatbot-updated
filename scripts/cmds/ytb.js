@@ -382,4 +382,4 @@ function parseAbbreviatedNumber(string) {
 			multi === 'K' ? num * 1000 : num);
 	}
 	return null;
-}
+		}
